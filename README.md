@@ -5,6 +5,6 @@ Funcionamiento:
 
 Introducir el valor numérico que queremos convertir,
 
-Elegir la unidad de distancia, en una lista desplegable, del número introducido , 
+Elegir la unidad de distancia, en una lista desplegable, del número introducido, por defecto, está seleccionado metros,
 
 Pulsar el botón "Calcular" para que muestre la conversión a todas las unidades de distancias.
